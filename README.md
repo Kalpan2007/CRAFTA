@@ -3,29 +3,9 @@
   <p><strong>Production-Ready Authentication & Authorization System</strong></p>
   
   [![npm version](https://img.shields.io/npm/v/crafta.svg)](https://www.npmjs.com/package/crafta)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
   [![Node.js Version](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen)](https://nodejs.org/)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 </div>
-
----
-
-## 📖 Table of Contents
-
-- [About](#about)
-- [Why CRAFTA?](#why-crafta)
-- [Architecture Overview](#architecture-overview)
-- [Features](#features)
-- [Data Flow Diagrams](#data-flow-diagrams)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Advanced Configuration](#advanced-configuration)
-- [API Reference](#api-reference)
-- [Security](#security)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [Team](#team)
-- [License](#license)
 
 ---
 
