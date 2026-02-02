@@ -1,4 +1,4 @@
-# @dax-crafta/auth
+# crafta
 
 A powerful, flexible, and secure authentication system for Node.js applications. Built with enterprise-grade security features while maintaining developer-friendly simplicity.
 
@@ -170,7 +170,3 @@ const activities = await auditService.getUserActivity(userId);
 - Regularly rotate refresh tokens
 - Monitor failed login attempts
 - Implement rate limiting
-
-## License
-
-MIT © Dax Crafta
